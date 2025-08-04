@@ -1,5 +1,5 @@
-import Header from '../components/header/Header';
-import './AboutPage.css';
+import Header from "../components/header/Header";
+// import './AboutPage.css';
 
 const AboutPage=()=>{
     return(
