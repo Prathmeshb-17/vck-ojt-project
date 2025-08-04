@@ -1,6 +1,8 @@
 import { Link } from 'react-router-dom';
 import './HomePage.css';
-import Header from '../components/header/Header';
+
+
+import Header from "../components/header/Header";
 const HomePage = () => {
     return (
         <>
